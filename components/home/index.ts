@@ -1,0 +1,6 @@
+export { Hero } from "./hero"
+export { TechStack } from "./tech-stack"
+export { Experience } from "./experience"
+export { Projects } from "./projects"
+export { Articles } from "./articles"
+export { Footer } from "./footer"
