@@ -8,14 +8,18 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 🚀 Live Demo
-[**View Live Portfolio**](https://your-project-name.vercel.app)
+[**View Live Portfolio**]([https://your-project-name.vercel.app](https://portfolio-lyart-nine-13.vercel.app/))
 
 ---
 
 ## 📖 About
-This portfolio was built to bridge the gap between **Native Mobile Engineering** and **Modern Web Development**. It features a clean, "Apple-like" aesthetic with smooth scroll animations, a responsive bento-grid layout, and a centralized data architecture.
+A high-performance personal portfolio template engineered with **Next.js 14 (App Router)** and **TypeScript**. 
 
-It serves as a showcase for my work as an **iOS Lead Engineer**, highlighting projects in Swift, SwiftUI, Jetpack Compose, and AI integration.
+This project demonstrates a scalable front-end architecture, featuring:
+* **Component-Driven Design:** Modular UI built with Shadcn and Tailwind CSS.
+* **Performance Optimization:** Server-Side Rendering (SSR) and optimized image loading.
+* **Centralized Data Layer:** A type-safe `data.ts` file that decouples content from logic, allowing for instant updates.
+* **Advanced Animations:** Smooth scroll-reveal effects and gestures powered by Framer Motion.
 
 ## ✨ Key Features
 * **Next.js 14 (App Router):** Server-side rendering for optimal SEO and performance.
